@@ -15,7 +15,7 @@ contributor:
     - Urrabieta Ortiz y Vierge, Daniel
     - Urrabieta, Daniel Vierge
     birthdate: 1851
-    deathdate: &id001 1904
+    deathdate: 1904
     gutenberg_agent_id: '43621'
     url: http://www.gutenberg.org/2009/agents/43621
 covers:
@@ -37,10 +37,12 @@ creator:
   editor:
     agent_name: Watts, Henry Edward
     birthdate: 1826
-    deathdate: *id001
+    deathdate: 1904
     gutenberg_agent_id: '43620'
     url: http://www.gutenberg.org/2009/agents/43620
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46125#Pablo-de-Segovia-the-Spanish-Sharper
 gutenberg_issued: '2014-06-28'
 gutenberg_type: Text
 identifiers:
