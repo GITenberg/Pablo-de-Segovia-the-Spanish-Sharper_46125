@@ -1,0 +1,59 @@
+_repo: Pablo-de-Segovia-the-Spanish-Sharper_46125
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Pennell, Joseph
+    alias: Pennell, J. (Joseph)
+    birthdate: 1857
+    deathdate: 1926
+    gutenberg_agent_id: '33068'
+    url: http://www.gutenberg.org/2009/agents/33068
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Pennell
+  illustrator:
+    agent_name: Vierge, Daniel
+    aliases:
+    - Urrabieta Ortiz y Vierge, Daniel
+    - Urrabieta, Daniel Vierge
+    birthdate: 1851
+    deathdate: &id001 1904
+    gutenberg_agent_id: '43621'
+    url: http://www.gutenberg.org/2009/agents/43621
+covers:
+- cover_type: archival
+  image_path: 46125-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Quevedo, Francisco de
+    aliases:
+    - De Quevedo y Villegas, Francisco Gómez
+    - Villegas, Francisco Gomez de Quevedo y
+    - Gómez de Quevedo y Villegas, Francisco
+    - Villegas, Francisco Gómez de Quevedo y
+    birthdate: 1580
+    deathdate: 1645
+    gutenberg_agent_id: '35792'
+    url: http://www.gutenberg.org/2009/agents/35792
+    wikipedia: http://en.wikipedia.org/wiki/Francisco_de_Quevedo
+  editor:
+    agent_name: Watts, Henry Edward
+    birthdate: 1826
+    deathdate: *id001
+    gutenberg_agent_id: '43620'
+    url: http://www.gutenberg.org/2009/agents/43620
+description: ''
+gutenberg_issued: '2014-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46125'
+  lccn: 09001819
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Picaresque literature, Spanish'
+- !lcsh 'Swindlers and swindling -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Spain -- Fiction'
+title: Pablo de Segovia, the Spanish Sharper
+url: http://www.gutenberg.org/ebooks/46125
